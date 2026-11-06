@@ -159,7 +159,6 @@
   </tr>
 </table>
 
-
 <sub>Project-specific technologies are listed separately in each project. This section summarizes the core tools and platforms I have worked with across projects, internship, and structured learning.</sub>
 
 <div align="center">
@@ -285,75 +284,68 @@
   </tr>
 </table>
 
-<sub>Project descriptions and technology stacks were checked against the uploaded README files, dependency manifests, and source files. Project covers are concept illustrations, not screenshots of the running applications.</sub>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" width="100%" />
 </div>
 
 <!-- 05 · ENGINEERING FOCUS -->
 <h2 id="engineering-focus">🧠 Engineering Focus</h2>
+
 <p>Six areas that guide how I design, build, secure, deploy, and maintain backend systems.</p>
 
 <table>
   <tr>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/backend-architecture-api-development.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>01 · Backend Architecture &amp; API Development</strong><br/>
-          <sub>Designing modular server-side components, clear REST endpoints, and consistent request/response contracts.</sub>
-        </td>
-      </tr></table>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/backend-architecture-api-development.svg" width="54" alt="Backend Architecture" />
     </td>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/database-design-management.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>02 · Database Design &amp; Management</strong><br/>
-          <sub>Structuring data, choosing suitable storage, and building reliable queries, relationships, and data flows.</sub>
-        </td>
-      </tr></table>
+    <td valign="middle">
+      <strong>01 · Backend Architecture &amp; API Development</strong><br/>
+      <sub>Designing modular server-side components, clear REST endpoints, and consistent request and response contracts.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/application-security.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>03 · Application Security</strong><br/>
-          <sub>Applying authentication, authorization, input validation, and secure handling of application data.</sub>
-        </td>
-      </tr></table>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/database-design-management.svg" width="54" alt="Database Design" />
     </td>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/quality-documentation.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>04 · Quality &amp; Documentation</strong><br/>
-          <sub>Testing important application flows and documenting APIs so services are easier to understand and maintain.</sub>
-        </td>
-      </tr></table>
+    <td valign="middle">
+      <strong>02 · Database Design &amp; Management</strong><br/>
+      <sub>Structuring data, choosing suitable storage, and building reliable queries, relationships, and data flows.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/cloud-infrastructure-deployment.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>05 · Cloud Infrastructure &amp; Deployment</strong><br/>
-          <sub>Packaging backend services and supporting repeatable deployments through cloud platforms, containers, and CI/CD.</sub>
-        </td>
-      </tr></table>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/application-security.svg" width="54" alt="Application Security" />
     </td>
-    <td width="50%" valign="middle">
-      <table><tr>
-        <td width="112" valign="middle"><img src="assets/engineering-focus/backend-reliability.svg" alt="" width="104" /></td>
-        <td valign="middle">
-          <strong>06 · Backend Reliability</strong><br/>
-          <sub>Building dependable services with structured error handling, logging, monitoring, and maintainable workflows.</sub>
-        </td>
-      </tr></table>
+    <td valign="middle">
+      <strong>03 · Application Security</strong><br/>
+      <sub>Applying authentication, authorization, input validation, and secure handling of application data.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/quality-documentation.svg" width="54" alt="Quality and Documentation" />
+    </td>
+    <td valign="middle">
+      <strong>04 · Quality &amp; Documentation</strong><br/>
+      <sub>Testing application flows and documenting APIs to make services easier to understand and maintain.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/cloud-infrastructure-deployment.svg" width="54" alt="Cloud Infrastructure" />
+    </td>
+    <td valign="middle">
+      <strong>05 · Cloud Infrastructure &amp; Deployment</strong><br/>
+      <sub>Packaging backend services and supporting repeatable deployments through cloud platforms, containers, and CI/CD.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <img src="assets/engineering-focus/backend-reliability.svg" width="54" alt="Backend Reliability" />
+    </td>
+    <td valign="middle">
+      <strong>06 · Backend Reliability</strong><br/>
+      <sub>Building dependable services with structured error handling, logging, monitoring, and maintainable workflows.</sub>
     </td>
   </tr>
 </table>
@@ -363,28 +355,12 @@
 </div>
 
 <!-- 06 · ANALYTICS -->
-<h2 id="github-analytics">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <a href="https://github.com/nsaifuddin">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=nsaifuddin&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=080D18&title_color=53D7ED&icon_color=A78BFA&text_color=F3F7FF" alt="GitHub statistics for nsaifuddin" />
-  </a>
-  <a href="https://github.com/nsaifuddin">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaifuddin&layout=compact&langs_count=8&hide_border=true&bg_color=080D18&title_color=53D7ED&text_color=F3F7FF" alt="Most used languages" />
-  </a>
-</div>
-
+<br/>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img width="75%" src="https://streak-stats.demolab.com?user=nsaifuddin&hide_border=true&background=080D18&ring=A78BFA&fire=53D7ED&currStreakLabel=53D7ED&sideLabels=F3F7FF&dates=9AAAC1&currStreakNum=F3F7FF&sideNums=F3F7FF" alt="GitHub contribution streak" />
   </a>
 </div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nsaifuddin&bg_color=080D18&color=F3F7FF&line=53D7ED&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
-<sub>Statistics are fetched from third-party services and may be delayed, rate-limited, or temporarily unavailable. Language charts describe detected repository code composition, not proficiency.</sub>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" width="100%" />
