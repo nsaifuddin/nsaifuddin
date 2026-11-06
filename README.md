@@ -5,8 +5,6 @@
 
 <div align="center">
   <img src="assets/hero/nur-saifuddin-name.gif" alt="Animated Nur Saifuddin name" width="100%" />
-  <br/>
-  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=950&color=53D7ED&center=true&vCenter=true&width=900&height=58&lines=Backend+Developer;Building+Reliable+Backend+Systems;REST+APIs;Database+Systems;Cloud+Infrastructure+%26+DevOps" alt="Backend Developer, building reliable backend systems, REST APIs, database systems, and cloud infrastructure and DevOps" />
 </div>
 <div align="center">
